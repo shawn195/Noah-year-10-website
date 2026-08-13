@@ -1,1 +1,18 @@
+H1 {
 
+  color: rgb(117, 151, 255);
+  text-shadow: 4px 4px 5px;
+}
+
+P {
+
+color: rgb(211, 65, 39);
+font-size: 18px;
+
+}
+
+li {
+
+color: rgba(88, 0, 230, 0.8);
+
+}
