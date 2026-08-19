@@ -1,7 +1,14 @@
-H1 {
+@font-face {
+  font-family: "Cloud";
+  src: url("fonts/cloud.ttf");
+}
 
-  color: rgb(117, 151, 255);
-  text-shadow: 4px 4px 5px;
+
+
+H1 {
+  font-family: Cloud;
+  color: rgb(143, 170, 252);
+  text-shadow: 6px 6px 7px;
 }
 
 P {
