@@ -8,6 +8,11 @@
   src: url("fonts/boulder.ttf");
 }
 
+@font-face {
+  font-family: "NotMoving";
+  src: url(fonts/NotMoving.otf)
+}
+
 
 
 h1 {
@@ -37,4 +42,13 @@ img {
 .Rock {
   font-family: Rock;
   color: grey;
+  width: 500px;
+}
+
+.NotMoving {
+color: red;
+font-family: NotMoving;
+text-shadow: none;
+font-size: 50px;
+text-align: center;
 }
