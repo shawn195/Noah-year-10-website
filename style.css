@@ -36,7 +36,9 @@ color: rgba(88, 0, 230, 0.8);
 
 img {
   width: 700px;
-  padding: 15px;
+  margin: 20px;
+  border-color: black;
+  border: 50px;
 }
 
 button {
