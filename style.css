@@ -51,6 +51,8 @@ img {
 }
 
 button {
+  display: flex;
+  justify-content: center;
   color:black;
   border-color: black;
   border-width: 5px;
@@ -58,6 +60,7 @@ button {
   height: 50px;
   font-size: x-large;
   font-family: NotMoving;
+  
 }
 
 .Rock {
