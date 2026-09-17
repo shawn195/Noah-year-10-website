@@ -1,12 +1,17 @@
-
-
 const pages = [
-  "http:/eelslap.com",
-  "https://memory.toys/classic/easy/",
-  "https://www.amazon.com/Raise-Your-Eating-Gifted-Children/dp/0595002366/",
-  "https://www.amazon.com.au/dp/045149492X/",
-  "https://musical.toys/toys/snapegiator/",
-  "https://pointerpointer.com/",
-  "https://cat-bounce.com/",
-
+  "http://eelslap.com",
+  "https://memory.toys",
+  "https://amazon.com",
+  "https://amazon.com.au",
+  "https://musical.toys",
+  "https://pointerpointer.com",
+  "https://cat-bounce.com",
 ];
+
+const randomButton = document.getElementById('random-page-btn');
+
+randomButton.addEventListener('click', () => {
+  const randomIndex = Math.floor(Math.random() * pages.length);
+  
+  window.location.href = pages[randomIndex];
+});
