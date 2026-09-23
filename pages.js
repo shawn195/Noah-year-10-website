@@ -4,6 +4,7 @@ const pages = [
   "https://www.amazon.com.au/How-Talk-Your-About-Safety/dp/045149492X",
   "https://www.amazon.com/dp/1613749414?lv=shuf&tag=judgeabook-20&channelId=1&plpRedirect=mhFallback",
   "https://www.amazon.com/dp/0595002366?lv=shuf&tag=judgeabook-20&channelId=1&plpRedirect=mhFallback",
+  "https://www.amazon.com/How-Survive-Garden-Gnome-Attack/dp/158008463X?tag=judgeabook-20",
   "https://musical.toys",
   "https://pointerpointer.com",
   "https://cat-bounce.com",
